@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header-div {
+    width: 98%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.header{
+    height: 150px;
+    width: 100%;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    position: relative;
+    padding: 17.5px 0;
+    top: -152px;
+}
+
+.section-header {
+    height: 35px;
+    width: 98%;
+    margin: 0 auto;
+    
+}
+
+#brushes-section-header {
+    background-color: mediumspringgreen;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
